@@ -11,7 +11,6 @@ function Videos({ videos, direction }) {
       justifyContent={"start"}
       gap={2}
       // alignContent={"center"}
-      justifyContent={"center"}
     >
       {videos.map((item, idx) => (
         <Box key={idx}>
