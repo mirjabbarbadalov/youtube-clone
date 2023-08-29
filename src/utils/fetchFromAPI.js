@@ -1,5 +1,7 @@
 import axios from "axios";
-import API_KEY from "../../API_KEY.JS";
+// import API_KEY from "../../API_KEY.JS";
+
+const API_KEY = "50c0808f41msh3436287852ba518p12385ejsn0025758b6261";
 
 const BASE_URL = "https://youtube-v31.p.rapidapi.com";
 
