@@ -1,6 +1,6 @@
 # React + Vite
 
-### LIVE DEMO: [youtube-clone-opal-alpha.vercel.app](https://youtube-clone-opal-alpha.vercel.app/)
+### LIVE DEMO: https://youtube-clone-redux.vercel.app/
 
 
 
